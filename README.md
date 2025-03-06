@@ -13,6 +13,7 @@ The hardware used in this project is as follows:
 - Waveshare 250x122, 2.13inch E-Ink display HAT for Raspberry Pi (12915) - the one with the 8 pin connector.
 - 500mAh LiPo battery.
 - Reed switch to sense the rain bucket tipping.
+- UV safe cover over the eink display (although the display faces away from the sun, it is unclear how the eink display works outside, so it is protected by a UV safe piece of perspex)
 
 ## Software
 
