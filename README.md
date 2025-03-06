@@ -2,6 +2,8 @@
 
 This project is a digital rain gauge that uses a tipping bucket mechanism to measure the amount of rain that has fallen. The rain gauge is powered by a battery and a solar panel and displays the amount of rain that has fallen on an eink display.
 
+Note - the project details are not complete instructions.  I often uses scrap box parts, or parts I get from my local electronics store.  This is more of a guide to show what I did.
+
 ## Hardware
 
 The hardware used in this project is as follows:
