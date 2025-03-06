@@ -91,55 +91,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Outputs\EInkRainGaugePCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Outputs\EInkRainGaugePCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Outputs\EInkRainGaugePCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Outputs\EInkRainGaugePCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Outputs\EInkRainGaugePCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Outputs\EInkRainGaugePCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Outputs\EInkRainGaugePCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Outputs\EInkRainGaugePCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Outputs\EInkRainGaugePCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Outputs\EInkRainGaugePCB.Outline
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Outputs\EInkRainGaugePCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Outputs\EInkRainGaugePCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Outputs\EInkRainGaugePCB.TXT
+DocumentPath=Default Configuration\Outputs\BOM\BOM_PartType-EInkRainGaugePCB.xlsx
 DItemRevisionGUID=
 
 [Configuration1]
@@ -153,6 +105,9 @@ GenerateBOM=0
 OutputJobsCount=1
 DocumentReferenceClass1=DocumentReference
 OutputJobFileName1=EInkRainGaugePCB.OutJob
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -220,10 +175,12 @@ OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType8=Schematic Print
 OutputName8=Schematic Prints
-OutputDocumentPath8=
+OutputDocumentPath8=D:\Projects\Garden\EInkRainGauge\EInkRainGaugePCB\EInkRainGaugePCB.SchDoc
 OutputVariantName8=
-OutputDefault8=0
+OutputDefault8=1
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=False|ShowProbe=False|ShowBlanket=False|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType9=SimView Print
 OutputName9=SimView Prints
 OutputDocumentPath9=
