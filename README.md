@@ -39,3 +39,6 @@ Alibre Design files are in the 3dModel\Alibre folder.  Step files in the 3dModel
 Note - not many fastners are shown in the 3D model.  I used M3 screws and heat set inserts.
 
 The catchment funnel has 10 holes around the topmost edge to install 20cm 0.8mm spring steel (piano wire) pieces to discourage birds from perching on the funnel.
+
+This is a 3d render of the model:
+<img src="images\render.jpg">
