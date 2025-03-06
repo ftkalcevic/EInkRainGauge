@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EInkRainGaugePCB/Default Configuration/Outputs
+/EInkRainGaugePCB/History
+/EInkRainGaugePCB/Logs
+/EInkRainGaugePCB/Outputs
+/EInkRainGaugePCB/__Previews
+/RainGaugeDigital/.visualgdb/CodeDB
+/RainGaugeDigital/.visualgdb/CodeExplorer
+/RainGaugeDigital/.visualgdb/VisualGDBCache
+/RainGaugeDigital/.vs/RainGaugeDigital/copilot-chat/7d4607e7/sessions
+/RainGaugeDigital/.vs/RainGaugeDigital/CopilotIndices/17.12.68.61481
+/RainGaugeDigital/.vs/RainGaugeDigital/FileContentIndex
+/RainGaugeDigital/.vs
+/RainGaugeDigital/build/VisualGDB/Debug
+/RainGaugeDigital/build/VisualGDB/MinSizeRel
+/RainGaugeDigital/build/VisualGDB/Release/.cmake/api/v1
+/RainGaugeDigital/build/VisualGDB/Release
+/test_rtc_alarm/EmbeddedProject1/.visualgdb
+/test_rtc_alarm/EmbeddedProject1/.vs
+/test_rtc_alarm/EmbeddedProject1/build/VisualGDB

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "RainGaugeDigital", "RainGaugeDigital.vgdbcmake", "{8176A6E4-9E6B-43FC-932B-8E554C860625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		MinSizeRel|VisualGDB = MinSizeRel|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		RelWithDebInfo|VisualGDB = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.MinSizeRel|VisualGDB.ActiveCfg = MinSizeRel|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.MinSizeRel|VisualGDB.Build.0 = MinSizeRel|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.RelWithDebInfo|VisualGDB.ActiveCfg = RelWithDebInfo|VisualGDB
+		{8176A6E4-9E6B-43FC-932B-8E554C860625}.RelWithDebInfo|VisualGDB.Build.0 = RelWithDebInfo|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0710A5DF-B98C-4EC6-B326-4C98164A88DB}
+	EndGlobalSection
+EndGlobal
